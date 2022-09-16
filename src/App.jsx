@@ -23,6 +23,8 @@ function App() {
     setRandomQuote (quotes[getIndexRandom(quotes)])
   }
 
+  
+
   return (
     <div style={backgroundObject} className="App">
         <QuoteBox 

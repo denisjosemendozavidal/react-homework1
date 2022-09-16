@@ -25,6 +25,10 @@ body {
   box-shadow: 3px 3px 10px #0009;
 }
 
+.card_author {
+  text-align: right;
+}
+
 p {
   margin: 0;
 }
@@ -43,6 +47,12 @@ p {
       transform: scale(1.05);
       transition: filter 100ms ease, transform 100ms ease;
     }
+
+.quotations {
+  color: aqua;
+  display: inline-block;
+  width: 10%;
+}
 
 
 
