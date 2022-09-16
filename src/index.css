@@ -1,0 +1,50 @@
+:root {
+  font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  margin: 0;
+}
+
+.App {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.card {
+  background-color: white;
+  padding: 3%;
+  border-radius: 5%;
+  box-shadow: 3px 3px 10px #0009;
+}
+
+p {
+  margin: 0;
+}
+
+.button {
+  display: block;
+  margin-left: 90%;
+  width: 30px;
+  padding: 1%;
+  border-radius: 50%;
+  transition: filter 100ms ease, transform 100ms ease;
+}
+
+    .button:hover{
+      filter: brightness(1.2);
+      transform: scale(1.05);
+      transition: filter 100ms ease, transform 100ms ease;
+    }
+
+
+
+
+
