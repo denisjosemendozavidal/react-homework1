@@ -25,9 +25,15 @@ body {
   box-shadow: 3px 3px 10px #0009;
 }
 
-.card_author {
-  text-align: right;
-}
+
+    .card_author {
+      text-align: right;
+    }
+
+    .fa-quote-left {
+      font-size: 400%;
+      
+    }
 
 p {
   margin: 0;
