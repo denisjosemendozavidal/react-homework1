@@ -25,14 +25,23 @@ body {
   box-shadow: 3px 3px 10px #0009;
 }
 
+    .quoteandquotations{
+      display: flex;
+    }
+
+    .card_quote {
+      align-self: center;
+      text-align: center;
+    }
 
     .card_author {
       text-align: right;
     }
 
     .fa-quote-left {
-      font-size: 400%;
-      
+      font-size: 500%;
+      margin-top: 0;
+      padding: 0;
     }
 
 p {
