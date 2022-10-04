@@ -1,5 +1,7 @@
 React homework 1. 
 
+Link: https://denis-mendoza-react-homework1.netlify.app/
+
 Welcome to my very first step using React.js. This Read me is not going to be very long, apologize for that, but well the project itself it is very simple.
 
 This project was built to master the useState and useEffect interactive rendering properties, how  to use, import and export components to help keep a clean code along with some javascript logic behind the ramdomazing of the results shown. 
